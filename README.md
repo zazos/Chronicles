@@ -1,2 +1,0 @@
-# Overvault
-My Second-Brain

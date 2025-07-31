@@ -1,0 +1,37 @@
+### **Automata Crossbows**
+
+![](https://mimir.net/wp-content/uploads/automata_crossbow-1.png)
+
+**Location: _[Outlands](https://mimir.net/layers/outlands/outlands/) / [Automata](https://mimir.net/places/automata/)_**
+
+Everyone on the planes gets used to seeing items and trinkets from all across the planes. It would be nothing to own half a dozen different items ranging from the 635th layer of the Abyss to the sixth slope of Mount Celestia. However, there are always a few items that stick out in a body’s mind as distinctive. Such an item would be the clockwork crossbows of Automata.
+
+These crossbows are produced at great cost by Geron the Mechanist _(petitioner human [he/him] / Fraternity of Order / LN)_, an inventor with a knack for creating complex geared machines. His workshop is filled with all sorts of mechanical birds and creatures, not the least of which is a clockwork golem he manufactured that answers the door and retrieves items for customers. Many fighters with some jink to toss away like to grab one of his clockwork crossbows to impress their employers and the common berk on the street. All clockwork crossbows are manufactured from steel, making them pretty heavy weapons to lug around, but many crossbowmen swear on them. The secret of their popularity lies not only in their exotic look, but in their accuracy and the gear mechanisms that cut loading times up to half of a normal crossbow. Every clockwork crossbow provides a gear mechanism that, when a loaded bolt is fired, helps reduce the pull needed to re-cock the crossbow, resulting in faster loading times. This causes the firing rates to move up an extra half-attack for all clockwork crossbows. [For instance, a normal heavy crossbow fires at a rate of 1/2. A heavy clockwork crossbow fires at a rate of 1/1.]
+
+This fact alone makes the clockwork crossbows a popular item among planewalking bolt-throwers everywhere. That’s not the only thing they’re know for, though. Clockwork crossbows provide the user with non-magical pluses to their attack and damage. Any general clockwork crossbow provides a +1 to attack and damage scores, and Geron can make ones that are up to +4 due to special sights and balance mechanisms in the drawstring. In order to get the bonus, you also need to have a special steel bolt (made by Geron’s Workshop, of course) loaded in order for the bonus to have full effect. Any other bolt gets half the bonus, rounded down. Reports from the battlefield say that the crossbow, though non-magical, can injure as a magical weapon for purposes of attacking high-up fiends and other highly magical creatures.
+
+While bolt-throwers get excited at the possibilities of such a weapon, there are a few drawbacks that the weapon has. For one thing, the weapon is heavy. Being made completely of steel, they enjoy a large positive gravity factor when used. Another item of note is that they are clockwork, and while durable, they can and do get jammed when not maintained properly. Geron recommends cleaning the gears and retuning the aiming and balance mechanisms every day, more if you’re in a high airborne particle environment such as **[Pelion](https://mimir.net/layers/arborea/mithardir-pelion/)** or extremely dirty areas like **[Minauros](https://mimir.net/layers/baator/minauros/)**. And it needs to be thoroughly dried after being submersed, a process that takes at least a half-day under ideal conditions. He also recommends a “tuning-up” of the weapon every Automatan half-year, which is about six months. Every two months after the sixth that it isn’t tuned up, the weapon loses a plus until it has no bonuses.
+
+The final deterrent to those who would be top shelf marksmen is cost, and believe me, cutter, that’s cost with a capital “jink.” These weapons start at a few thousand gold pieces, and can easily soar into indentured servitude for a decade or so or a Merkhant’s life savings, whichever is easier for the customer. _[For DM’s looking to bleed off jinx that’s lying around in barrels in the PC’s kips, here’s the time to do it.]_ “Basic” clockwork crossbows go for 5,000 gold or its equivalent in metal or metalworking materials. This is due to the fact that Geron goes through a lot of metal and tools, and this is an easy way for him to get them without the hassle of having to do it himself. Geron reserves the right to refuse payment this way, especially if customers try to peel him by giving him inferior quality metal or tools, or he just doesn’t need the tools or metal now. _[This could be a good way to kick off an adventure, though. Imagine the PCs wanting a crossbow and having to trek to a Prime world to retrieve some rare ore from a Dwarven kingdom there. Of course, the dwarves don’t just give it away to anyone, and they’ve had this small problem with an itty-bitty drow raiding party…. Undermountain, anyone?]_
+
+![](https://mimir.net/wp-content/uploads/automata_crossbow_workshop-1.png)
+
+**Geron’s Workshop:** Geron’s workshop is located in Automata, 3 blocks Spireward of The Council of Order’s Main Building, just along Modron Way. It’s a large two story building, with all sorts of things hopping about and chirping and whirring and lots of things you would associate with wind-up toys. Most of them are wind-up toys, but there are quite a few that aren’t. Geron is the owner and proprietor, but maintains a staff of three mechanists and a half-dozen apprentices who are responsible for general maintenance and upkeep of the models on display, as well as basic repair work. The shop and workrooms are located on the first floor, and Geron’s quarters are on the second (which, incidentally, are pretty good and well decorated. Think of a Humanities professor’s house, filled with books and nice, old, furniture and things like that.)
+
+Geron is a clean cutter. He believes in hard work and an honest wage for that work. He knows he’s one of the best in the planes, and he’ll charge people for that level of expertise and knowledge. Sure, you can get clockwork crossbows at other places in Automata and Sigil, but they aren’t as finely crafted as his, and there’s nothing illegal about charging people for that. His apprentices, however, are another matter. He’s not sure who, but there have been rumours that one of his apprentices is working for the Council of Anarchy and looking for a way to arm their soldiers with his weaponry with having to pay the huge amounts of money for them. Geron’s not one to mess with politics, but anarchy is a bad thing in his mind, and if anyone could help him find out who was the mole, he would be grateful—perhaps even grateful to give a discount on one of his items….
+
+The statistics listed below are for Geron’s clockwork crossbows and his specially made bolts. These statistics apply only when both the crossbow and bolt are used together. If a clockwork crossbow uses normal bolts, or special bolts are used in a normal crossbow, apply the normal statistics found in the Player’s Handbook.
+
+|   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|
+|**Weapon**|**Cost**|**Weight**|**Size**|**Type**|**Speed**|**Damage** **S-M / L**|
+|Light crossbow|5,000 gp +|10|S|–|5|–|
+|Heavy crossbow|8,000 gp +|20|M|–|7|–|
+|Hand crossbow|15,000 gp +|5|S|–|2|–|
+|Light quarrel|1 gp|5 = 1 lb|S|P|–|1d6 / 1d4|
+|Heavy quarrel|2 gp|5 = 1 lb|M|P|–|1d8+1 / 1d6+1|
+|Hand quarrel|10 gp|10 = 1 lb|S|P|–|1d4 / 1d3|
+
+**Source:** _Planewalker_
+
+![](https://mimir.net/wp-content/uploads/automata_crossbow_workshop-1.png)

@@ -1,0 +1,7 @@
+In an allegedly charitable gesture, **Aaz Muldo** _(planar tiefling priest [she/her] / Heralds of Dust / N)_ set up the **School of Life** some years ago, to teach the young pikes of **The Hive** a thing or two about life. Well, that was the screed, anyway. In return for lessons on reading and writing (a vital skill in the cut-and-thrust philosophical world of **Sigil**), mythology (in a burg where belief’s as important as where the next meal’s coming from, that ain’t a bad thing either) and planar lore (such useful topics as why bobbing tanar’ri ain’t such a wise idea), the children perform minor duties in the **Mortuary**.
+
+The Heralds of Dust apparently hope that by introducing their charges to death from a very young ago, they’ll get used to the idea that death is natural, and maybe want to join the faction proper. Unlike many of the other factions, which claim to offer instant answers and rewards, the Dustmen just can’t draw the crowds. Now this don’t matter too much, since the faction’d rather have no members than ones who’d joined for the wrong reasons, but a faction with no members ain’t much of a force to be reckoned with, right? So there’s the answer: A good education for children who, frankly, wouldn’t get one otherwise, and hopefully new blood to swell the ranks. 
+
+**Source:** _Jon Winter-Holt, mimir.net_
+
+![](https://mimir.net/wp-content/uploads/aaz_muldo_heralds_of_dust_sigil.png)

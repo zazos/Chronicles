@@ -1,0 +1,14 @@
+---
+tags: dnd, pazunia, abyss
+---
+
+
+![[Bonepot_Pazunia.png]]
+
+Tucked away in a corner of Pazunia, there’s this macabre forge, a place where death meets industry. It’s overseen by this particularly brainy vrock called [[Grasp_of_Ydolroc.webp]](vrock tanar’ri [it/its] / CE). Vrocks are a sort of demonic bird creature. So picture a fellow with feathers sharp like blades, splattered with beads of iron and a mind sharper than a razor’s edge. It’s the conductor of the clattering dance of steel and bone that goes on in Bonepot. It’s got a beady eye for detail on every bit of the process. But, it ain’t all work and no play for this feathered overlord. Rumour has it, in the dead of the night, when the forges burn low and the weary smiths have retired, it indulges in a bizarre ritual, dancing alone in the glow of the furnaces, a solitary figure amidst the sea of iron and bones, moving in strange, hypnotic patterns.
+
+What they’re cooking up in that diabolic factory is the stuff of nightmares — skellies, but not your garden-variety ones, oh no, we’re talking demonic skeletons decked out in iron plates, a fusion of bone and metal. They’re churned out ready to march into the **Blood War** battlegrounds is a horror show of clinking clanking sounds with each step they take. It’s like a grisly fashion parade, with each skelly sportin’ a custom set of iron plates, crafted to enhance the natural deadliness of their bone structure, and to give ’em that shiny, modern look that’s all the rage in tanar’ri circles these days. In a place like the Abyss, where brutality is the order of the day, Bonepot shows off the inventive cruelty of its denizens. It’s a place where death is not the end, but merely the beginning of a new, iron-clad existence. It’s the ultimate recycling scheme, ain’t it? You pass on, and your bones get to continue the fight, clad in the latest in infernal fashion.
+
+Just picture a phalanx of skeletal soldiers, each one cladded in Pazunia’s finest iron, ready to throw down in the hellscape of the Lower Planar battlefields. Unlike the tanar’ri armies, they’re completely mindless, obedient, and will do anything they’re told no matter how hopeless or suicidal. Cunning old Y’dolroc, playing the baatezu at their own game.
+
+Now here’s where it gets a bit hush-hush, a bit nudge-nudge-wink-wink, you know? Word on the dark and twisted streets of the multiverse is that this whole operation’s got the touch of *&+$^ all over it. Yeah, the big bad demon prince of the undead, the one and only. But, mind you, it ain’t just his forces that benefit from this sinister enterprise. These bony bruisers have been spotted in a right few demonic armies, adding their metallic glint to their deathly parades.

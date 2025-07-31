@@ -1,0 +1,104 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showMenuActions": true,
+  "showQuickSwitcherIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 70,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": true,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Assets": {
+      "icon": "lucide-trash",
+      "color": "orange",
+      "unsynced": [
+        "986715cc911687ed"
+      ]
+    },
+    "Dashboard.md": {
+      "icon": "lucide-layout-dashboard",
+      "color": "red"
+    },
+    "Dungeons & Dragons": {
+      "icon": "🐉",
+      "unsynced": [
+        "986715cc911687ed"
+      ],
+      "color": "red"
+    },
+    "Dungeons & Dragons/Fortune's Wheel": {
+      "icon": "🪙",
+      "unsynced": [
+        "986715cc911687ed"
+      ],
+      "color": "yellow"
+    },
+    "Dungeons & Dragons/Fortune's Wheel/Monsters and Enemies/Spectral Beholder.md": {
+      "icon": "lucide-skull",
+      "color": "cyan"
+    },
+    "Dungeons & Dragons/Fortune's Wheel/Monsters and Enemies/Spectral Wraith.md": {
+      "icon": "lucide-skull",
+      "color": "cyan"
+    },
+    "Dungeons & Dragons/Fortune's Wheel/Session Recaps": {
+      "icon": "lucide-scroll-text",
+      "unsynced": [
+        "986715cc911687ed"
+      ],
+      "color": "orange"
+    },
+    "Dungeons & Dragons/Fortune's Wheel/Session Recaps/Session Recaps.md": {
+      "color": "orange"
+    },
+    "Thesis Collection": {
+      "icon": "lucide-university",
+      "unsynced": [
+        "986715cc911687ed"
+      ],
+      "color": "blue"
+    },
+    "Work": {
+      "icon": "lucide-computer",
+      "unsynced": [
+        "986715cc911687ed"
+      ],
+      "color": "green"
+    },
+    "Work/LLMs": {
+      "icon": "🐐",
+      "unsynced": [
+        "986715cc911687ed"
+      ]
+    },
+    "Work/LLMs/ExplainJudge": {
+      "icon": "🦙",
+      "unsynced": [
+        "986715cc911687ed"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

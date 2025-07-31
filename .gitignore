@@ -1,0 +1,18 @@
+# Obsidian vault settings
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/app.json
+.obsidian/cache/
+.obsidian/trash/
+
+# macOS specific files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/

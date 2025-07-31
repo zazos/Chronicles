@@ -1,0 +1,318 @@
+{
+  "mapMarkers": [
+    {
+      "id": "MapCalcExample",
+      "lastAccessed": 1752417791686,
+      "markers": [
+        {
+          "id": "ID_3828a9e809c9",
+          "type": "default",
+          "loc": [
+            1898.9021152461055,
+            955.5609021542427
+          ],
+          "layer": "%5B%5Bwalking_castle_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b97b7a89b8db",
+          "type": "default",
+          "loc": [
+            1898.9021152461055,
+            955.5609021542427
+          ],
+          "link": "Walking Castle Map#W1: Terrace",
+          "layer": "%5B%5Bwalking_castle_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cba85a198988",
+          "type": "default",
+          "loc": [
+            905.9695148518081,
+            1252.612041513329
+          ],
+          "layer": "%5B%5Bwalking_castle_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39b9c8a9ba69",
+          "type": "default",
+          "loc": [
+            905.9695148518081,
+            1252.612041513329
+          ],
+          "link": "Walking Castle Map#W2: Library",
+          "layer": "%5B%5Bwalking_castle_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b6abb29da98",
+          "type": "default",
+          "loc": [
+            2671.6875,
+            1205.7890625
+          ],
+          "layer": "%5B%5Bwalking_castle_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebb95b28ab6b",
+          "type": "default",
+          "loc": [
+            2671.6875,
+            1205.7890625
+          ],
+          "link": "Walking Castle Map#W3: Main Room",
+          "layer": "%5B%5Bwalking_castle_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab991949d899",
+          "type": "default",
+          "loc": [
+            2329.6875,
+            1419.7890625
+          ],
+          "layer": "%5B%5Bwalking_castle_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08f8da3a7b68",
+          "type": "default",
+          "loc": [
+            2329.6875,
+            1419.7890625
+          ],
+          "link": "Walking Castle Map#W4: bedroom",
+          "layer": "%5B%5Bwalking_castle_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4bfbbb4be98a",
+          "type": "default",
+          "loc": [
+            2637.6875,
+            1563.7890625
+          ],
+          "layer": "%5B%5Bwalking_castle_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a8a4a8b891b",
+          "type": "default",
+          "loc": [
+            2637.6875,
+            1563.7890625
+          ],
+          "link": "Walking Castle Map#W5: Study",
+          "layer": "%5B%5Bwalking_castle_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99b9f9d83b59",
+          "type": "default",
+          "loc": [
+            3463.765625,
+            1272.5234375
+          ],
+          "layer": "%5B%5Bwalking_castle_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49391a4bc999",
+          "type": "default",
+          "loc": [
+            3464.984375,
+            1272.484375
+          ],
+          "link": "Walking Castle Map#W6: Castellan Chamber",
+          "layer": "%5B%5Bwalking_castle_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.35346788194444445,
+            -0.7372307180851064
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78e9abc98b58",
+          "type": "default",
+          "loc": [
+            3953.765625,
+            1240.5234375
+          ],
+          "layer": "%5B%5Bwalking_castle_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_598878e88b38",
+          "type": "default",
+          "loc": [
+            3954,
+            1240
+          ],
+          "link": "Walking Castle Map#W7: Meditation Chamber",
+          "layer": "%5B%5Bwalking_castle_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.34444444444444444,
+            -0.8412765957446808
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79caca3a7a3a",
+          "type": "default",
+          "loc": [
+            4315.765625,
+            1146.5234375
+          ],
+          "layer": "%5B%5Bwalking_castle_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d90a5acb2bfa",
+          "type": "default",
+          "loc": [
+            4315.765625,
+            1146.5234375
+          ],
+          "link": "Walking Castle Map#W8: Signal Tower",
+          "layer": "%5B%5Bwalking_castle_map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

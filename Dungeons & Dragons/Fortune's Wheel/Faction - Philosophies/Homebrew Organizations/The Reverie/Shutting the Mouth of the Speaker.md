@@ -1,0 +1,5 @@
+- The hideout (Citadel of Fire) is nothing but ashes. The characters removed the core and the inhospitality of the Plane engulfed the Citadel in primeval flames.
+- Imogen killed by the players. Both Toranna and Shadowknave lie dead as well. Brandon and his child dead as well.
+	- All the mercenaries that were hired and may or may not escape the Citadel have no business with the Reverie anymore.
+- Veylith, unbeknownst to him by whom, has lost his foundational operation for the Reverie. He does not know who inflicted this deep scar. 
+	- Its still unknown if he will seek for revenge.

@@ -1,0 +1,1 @@
+Mix these animal lords https://mimir.net/creatures/planar-races/animal-lords/ and proxy Clarion as introduction guide to them.

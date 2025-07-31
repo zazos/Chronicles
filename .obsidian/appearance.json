@@ -1,0 +1,18 @@
+{
+  "cssTheme": "Shiba Inu",
+  "accentColor": "#6c6383",
+  "enabledCssSnippets": [
+    "custom-titles",
+    "gallery-tweaks",
+    "exocet-style",
+    "【Main】MCL Multi Column",
+    "【Main】ITS callouts (infobox, cards)",
+    "image-align"
+  ],
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "interfaceFontFamily": "",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
+}

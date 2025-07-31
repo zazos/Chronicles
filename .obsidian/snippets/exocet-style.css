@@ -1,0 +1,42 @@
+/*
+================================================================================
+ FOLDER-SPECIFIC FONTS (Using :has() Selector) - CORRECTED
+ --------------------------------------------------------------------------------
+ This snippet targets the note's header breadcrumb to apply folder-specific
+ styles. This version directly targets blockquotes to ensure the font
+ is applied, bypassing theme variables.
+================================================================================
+*/
+
+/*
+  This single rule targets ALL notes inside the "Dungeons & Dragons" folder,
+  AS WELL AS the main "Dungeons & Dragons.md" folder note itself.
+*/
+.workspace-leaf:has(.view-header-breadcrumb[data-path^="Dungeons & Dragons"]) {
+  /* --- HEADING STYLES --- */
+  /* Apply HEAVY style to H1/H2 */
+  --h1-font: 'Exocet', sans-serif !important;
+  --h1-weight: 700 !important;
+  --h2-font: 'Exocet', sans-serif !important;
+  --h2-weight: 700 !important;
+
+  /* Apply LIGHT style to H3-H6 */
+  --h3-font: 'Exocet', sans-serif !important;
+  --h3-weight: 300 !important;
+  --h4-font: 'Exocet', sans-serif !important;
+  --h4-weight: 300 !important;
+  --h5-font: 'Exocet', sans-serif !important;
+  --h5-weight: 300 !important;
+  --h6-font: 'Exocet', sans-serif !important;
+  --h6-weight: 300 !important;
+}
+
+/* --- BLOCKQUOTE STYLES (THE FIX) --- */
+/*
+  This rule directly targets the `blockquote` element inside any note
+  matching the folder path. This is more reliable than setting a variable.
+*/
+.workspace-leaf:has(.view-header-breadcrumb[data-path^="Dungeons & Dragons"]) blockquote {
+  font-family: 'Exocet', sans-serif !important;
+  font-weight: 300 !important;
+}

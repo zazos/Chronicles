@@ -1,0 +1,7 @@
+- They head towards the cliffside where the walking castle has landed
+- Snuck into the castle and confronted the tieflings but did not engage directly in combat. 
+- LO climbed to the avian's nest and begun the combat initiative from there.
+- The combat was lethal but they managed to emerge victorious.
+- In a stealthy killing blow, Bhaal "forced" the way of Zill to invoke critical damage.
+- Laxuelu, the gith in the sarcophagus, whispered in Nibi's mind "Save the knowledge" when they were wondering if they should fight or leave. 
+- Short rest

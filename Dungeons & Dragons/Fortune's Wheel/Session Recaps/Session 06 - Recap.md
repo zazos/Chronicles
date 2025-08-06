@@ -1,0 +1,10 @@
+- Members of the Red Circuit attacked the Fiend's Salute Inn
+- Killed Red Circuit and Shadowknave. LO acquired the transmitter which he have to fully identify first
+- Darius returned swiftly to the Mortuary
+- Zill tries to speak with dead as ritual using solely the head of Shadowknave. A nightmare of Bhaal appeared not letting him successfully cast them spell, or better not letting the spirit of Shadowknave to speak with him. The spirit of Shadowknave has been claimed by Bhaal and he speaks through him
+- Next morning they headed to the Mortuary and meet with Darius
+- Darius (Toranna) was summoned to the factol's secretary office by Komosahl. He announced that he's aware with the fiasco of the Citadel and wants to terminate this business, whoever is hiding underneath Toranna. Then dismissed him.
+- The party disguised with the spell Seeming using the guises of Toranna, Shadowknave and some hirelings. 
+- They bypassed most of the Citadel's surrounding. They toured around, but not fully, resulting in Imogen's office. 
+- She was confused as to why they appeared here, but after explaining to her that there is a certain group of characters that claim to have been returned from the dead, she got hooked up and raised her interests in meeting them. She dismissed Toranna to summon these characters here at once.
+- The characters instead of leaving, hid in the next room (14)

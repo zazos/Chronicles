@@ -1,18 +1,56 @@
-# Obsidian vault settings
+# Obsidian workspace and cache files
 .obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace
 .obsidian/workspaces.json
 .obsidian/app.json
 .obsidian/cache/
 .obsidian/trash/
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/plugins/obsidian-git/data.json
 
-# macOS specific files
+# Obsidian hotkeys and graph data (personal preferences)
+.obsidian/hotkeys.json
+.obsidian/graph.json
+
+# Trash folder
+.trash/
+
+# macOS system files
 .DS_Store
+.DS_Store?
 ._*
 .Spotlight-V100
 .Trashes
 
-# Windows specific files
+# Windows system files
 Thumbs.db
 ehthumbs.db
+Desktop.ini
 desktop.ini
 $RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Log files
+*.log
+
+# Node modules (if any plugins use them)
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.backup
+*.old

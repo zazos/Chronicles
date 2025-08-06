@@ -1,42 +1,47 @@
 /*
 ================================================================================
- FOLDER-SPECIFIC FONTS (Using :has() Selector) - CORRECTED
- --------------------------------------------------------------------------------
- This snippet targets the note's header breadcrumb to apply folder-specific
- styles. This version directly targets blockquotes to ensure the font
- is applied, bypassing theme variables.
+ GLOBAL EXOCET FONTS - READING AND EDITING MODE
 ================================================================================
 */
 
-/*
-  This single rule targets ALL notes inside the "Dungeons & Dragons" folder,
-  AS WELL AS the main "Dungeons & Dragons.md" folder note itself.
-*/
-.workspace-leaf:has(.view-header-breadcrumb[data-path^="Dungeons & Dragons"]) {
-  /* --- HEADING STYLES --- */
-  /* Apply HEAVY style to H1/H2 */
-  --h1-font: 'Exocet', sans-serif !important;
-  --h1-weight: 700 !important;
-  --h2-font: 'Exocet', sans-serif !important;
-  --h2-weight: 700 !important;
+/* TODO: Exocet fonts only in Dungeons & Dragons  */
 
-  /* Apply LIGHT style to H3-H6 */
-  --h3-font: 'Exocet', sans-serif !important;
-  --h3-weight: 300 !important;
-  --h4-font: 'Exocet', sans-serif !important;
-  --h4-weight: 300 !important;
-  --h5-font: 'Exocet', sans-serif !important;
-  --h5-weight: 300 !important;
-  --h6-font: 'Exocet', sans-serif !important;
-  --h6-weight: 300 !important;
+/* Reading Mode */
+.markdown-preview-view h1,
+.markdown-preview-view h2 {
+  font-family: 'Exocet', sans-serif !important;
+  font-weight: 700 !important;
 }
 
-/* --- BLOCKQUOTE STYLES (THE FIX) --- */
-/*
-  This rule directly targets the `blockquote` element inside any note
-  matching the folder path. This is more reliable than setting a variable.
-*/
-.workspace-leaf:has(.view-header-breadcrumb[data-path^="Dungeons & Dragons"]) blockquote {
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+  font-family: 'Exocet', sans-serif !important;
+  font-weight: 300 !important;
+}
+
+.markdown-preview-view blockquote {
+  font-family: 'Exocet', sans-serif !important;
+  font-weight: 300 !important;
+}
+
+/* Editing Mode */
+.markdown-source-view .cm-header-1,
+.markdown-source-view .cm-header-2 {
+  font-family: 'Exocet', sans-serif !important;
+  font-weight: 700 !important;
+}
+
+.markdown-source-view .cm-header-3,
+.markdown-source-view .cm-header-4,
+.markdown-source-view .cm-header-5,
+.markdown-source-view .cm-header-6 {
+  font-family: 'Exocet', sans-serif !important;
+  font-weight: 300 !important;
+}
+
+.markdown-source-view .cm-quote {
   font-family: 'Exocet', sans-serif !important;
   font-weight: 300 !important;
 }

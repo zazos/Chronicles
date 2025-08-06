@@ -1,0 +1,17 @@
+- Party considers going to either Outlands or the casino. Even to Rigus.
+- Josbert slightly pushed them going to the casino, making mentions about the chip being a calling card–Shemeshka was overlooking.
+- They arrived to Fortune's Wheel without issue. Josbert left them.
+- Valek welcomed and guided them to their rooms, as Shemeshka was waiting for them. 
+- After they changed, the went to the casino itself, showing the platinum chip to Vez.
+- They wandered around and played games. Some activities that stood out:
+	- Nibi spin the wheel of the Fortune's Wheel first. While it worked, it glitched her out for a moment.
+	- Zill drunk a cocktail served by the yeti at the glacier bar.
+	- Orianna gambled with the lesser wheels.
+	- Rubicon met Ignatius who the mindflayer interrogated. Ignatius passed him the coordinates that the Concordant Express departs. He passed the information that something is being cooked on the train and he plans to find out. He hopes that Rubicon is on the right side of this case–whichever this side might be!
+- After a while, Shemeshka descended and met the patrons of the casino.
+- She stopped an intrusion from the Harmonium to arrest the players, but before she could actually speak with them personally, the glitch occurred.
+- The gambling machines modrons begun spewing hot coins, injuring the patrons and a rift to Mechanus begun materialising above their heads that would eventually absorb everything in the casino. 
+- R04M made his escape, delivering the parchment (portal key) to LO, before de-materialising itself (absorbed by Mechanus).
+- Before LO completed reading the parchment and successfully teleport away, he met the gaze of Shemeshka–a cunning look of acknowledgement. 
+	- Shemeshka is intrigued. R04M's escape and the characters involvement won't go unnoticed. 
+- The characters arrived in the Outlands, a bit further away from the gate-town of Torch. Near them, a magenta forest opens up, with mechanical trials of something huge leading to that forest. 

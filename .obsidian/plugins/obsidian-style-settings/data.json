@@ -50,5 +50,11 @@
   "shiba-theme-settings@@shib-custom-vault-folder-toggle-options": "shib-custom-vault-folder-shiba-icon",
   "shiba-theme-settings@@shiba-toggle-folder-icons": true,
   "shiba-theme-settings@@shiba-toggle-folder-icons-options": "shiba-toggle-folder-icons-cute",
-  "shiba-theme-settings@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-cute-town-l"
+  "shiba-theme-settings@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-cute-town-l",
+  "shiba-theme-settings@@shib-h1-underline": false,
+  "shiba-theme-settings@@shib-h2-underline": false,
+  "shiba-theme-settings@@shib-h3-underline": false,
+  "shiba-theme-settings@@shib-header-color-toggle": true,
+  "shiba-theme-settings@@shiba-clutter-free-headings": false,
+  "shiba-theme-settings@@blockquote-style": "blockquote-style-quotation-mark"
 }

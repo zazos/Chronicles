@@ -1,0 +1,4 @@
+- The characters decided to directly engage in combat with everyone.
+- Imogen tried to reason with them while taking a defensive position, but the characters attacked regardless.
+- They are trying to find an obsidian plate to host the jewel (core). 
+- We ended the session in the barmies

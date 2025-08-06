@@ -1,2 +1,0 @@
-
-![[ExplainJudge Schema.png]]

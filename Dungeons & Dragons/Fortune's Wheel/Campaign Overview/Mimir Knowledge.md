@@ -35,6 +35,7 @@ Once data on all seven missing gate-towns is restored, the mimir can report on t
 
 ## Mimir Data Index (Expanded) (WIP)
 
+Essentially, the objectives can be acquiring the data of fallen modrons that once belonged to the lost contingent. 
 #### **Entry 01: Automata**
 
 - **Associated Faction:** The Church of Experiments (Doctrine: The Machine as Divinity)

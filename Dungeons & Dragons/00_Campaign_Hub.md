@@ -21,7 +21,7 @@ banner_y: 0.5
 > > LIST
 > > FROM ""
 > > SORT file.mtime DESC
-> > LIMIT 5
+> > LIMIT 7
 > > ```
 > 
 > > [!link] Recaps 
@@ -106,5 +106,5 @@ if (allFiles.length === 0) {
 - [ ] **Shemeshka's Game:** Why is the Arcanaloth spymaster of Fortune's Wheel so interested in the party? What does she know?
 - [ ] **The Concordant Express:** Plan the heist to free the Hands of Havoc member for Adia Panama.
 - [ ] **The Sylvanian Coup:** Will the party help Clarion and the guardinals deal with the corrupted Wolf Lord?
-- [ ] **The Emberheart Core:** Find someone (like Shafi Bin Ahmad Zin) to craft the Infernal Iron device to unlock the core's power.
+- [ ] **The Emberheart Core:** Find someone (like [[Shafi Bin Ahmad Zin|Shafi Bin Ahmad Zin]]) to craft the Infernal Iron device to unlock the core's power.
 - [ ] **Orianna's Mission:** Infiltrate the Bucket of Blood tavern in Pazunia for her patron.
